@@ -1,7 +1,7 @@
 package Lab1;
 
 /* File: AwtCloseFrame.java
-Uses AWT Frame and handles window close event to exit the program. dfhjdslfkjdfjn
+Uses AWT Frame and handles window close event to exit the program. dfhjdslfkjdfjn, muji sujal
 */
 import java.awt.*;
 import java.awt.event.*;
